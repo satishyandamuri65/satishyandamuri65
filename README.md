@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satishyandamuri65" alt="satishyandamuri65" /></a> </p>
 
-- 🔭 I’m currently working on **Virtual Mentor powered by AI**
+- 🔭 I’m currently working on **SQL Analyst powered by AI**
 
 - 🌱 I’m currently learning **GenAI, Data Analytics**
 
