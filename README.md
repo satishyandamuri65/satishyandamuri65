@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **GenAI, Data Analytics**
 
-- 🤝 I’m looking for help with **DSA**
-
 - 📫 How to reach me **satishyandamuri65@gmail.com**
 
 - ⚡ Fun fact **I turn confusion into commits.**
